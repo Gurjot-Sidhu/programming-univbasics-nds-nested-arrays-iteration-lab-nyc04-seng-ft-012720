@@ -21,7 +21,7 @@ def find_greater_pair(src)
   large =[]
   counter = 0 
     while counter < src.length do 
-    
+      large.push(src)
   end
 end
 
