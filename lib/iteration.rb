@@ -10,7 +10,7 @@ def join_ingredients(src)
   while row < src.count do 
     element = 0
     while element < src[row].count do
-      puts "I love ${src[row]} and ${"
+      puts "I love #{src} and #{src[row] on my pizza"
       element += 1 
     end
     row += 1
