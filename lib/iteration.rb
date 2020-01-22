@@ -11,9 +11,9 @@ def join_ingredients(src)
     element = 0
     while element < src[row].count do
       puts src[row][element]
-      element +=1 
+      element += 1 
     end
-    row +=
+    row += 1
   end
 end
 
