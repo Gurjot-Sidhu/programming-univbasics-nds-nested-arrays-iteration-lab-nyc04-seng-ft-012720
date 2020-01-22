@@ -10,6 +10,7 @@ def join_ingredients(src)
   counter = 0 
   while counter <src.length do 
     foods.push("I love #{src[counter][0]} and #{src[counter][1]} on my pizza")
+    counter +=1
   end
   
 end
